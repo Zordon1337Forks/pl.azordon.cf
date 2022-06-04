@@ -1,2 +1,2 @@
-# zordon.cf
-yup my site is open source
+# pl.azordon.cf
+polish translate of my site
